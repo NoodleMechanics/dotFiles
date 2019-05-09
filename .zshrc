@@ -14,3 +14,4 @@ compinit
 # My aliases
 alias l='ls -la'
 alias config='/usr/bin/git --git-dir=/home/gdigrego/.cfg/ --work-tree=/home/gdigrego'
+alias polybarstart='$HOME/scripts/polybarstart.sh'

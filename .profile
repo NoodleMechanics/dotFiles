@@ -6,5 +6,5 @@ export BROWSER=/usr/bin/palemoon
 
 
 # My exports
-export PATH="$PATH:/scripts/polybarstart"
+export PATH="$HOME/scripts/polybarstart"
 
